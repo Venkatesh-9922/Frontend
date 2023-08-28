@@ -1,0 +1,8 @@
+Types of Tags
+
+1)Paired Tags-It Contains both Opening and Closing/Ending Tag.
+  eg:<h1> Hello </h1>,
+     <p> Welcome to HTML Tutorial </p>
+    
+2)Self or unpaired Tags- It Contains only one tag i.e,  OpeningTag.
+ eg: <br>, <img src="" alt=""> etc
