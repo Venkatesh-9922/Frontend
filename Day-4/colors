@@ -1,0 +1,14 @@
+RGB:
+
+R-->Red
+G-->Green
+B-->Blue
+
+Range of Each Color = 0-255
+
+RGBA:
+
+Here A-->Alpha (Transparency)
+
+Range of Alpha = 0.0 to 1.0
+
